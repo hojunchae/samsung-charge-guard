@@ -1,0 +1,15 @@
+# Logs
+*.log
+
+# Local test output
+tmp/
+out/
+
+# Archives
+*.zip
+*.tar.gz
+
+# Editor files
+.DS_Store
+.vscode/
+.idea/
